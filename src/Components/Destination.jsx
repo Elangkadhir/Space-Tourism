@@ -16,23 +16,44 @@ const Destination = () => {
       ice skating, curling, hockey, or simple relaxation in your snug 
       wintery cabin.,`,
       image: EuropaImage,
-      distance : `  Avg. distance
+      distance :`Avg. distance
       628 mil. km
     
       Est. travel time
       3 years`
     },
     Moon: {
-      content: "Content for Moon...",
+      content: `See our planet as you’ve never seen it before. A perfect relaxing trip away to help 
+      regain perspective and come back refreshed. While you’re there, take in some history 
+      by visiting the Luna 2 and Apollo 11 landing sites.`,
       image: MoonImage,
+      distance : `  Avg. distance
+      384,400 km
+    
+      Est. travel time
+      3 days`
     },
     Mars: {
-      content: "Content for Mars...",
+      content: ` Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, 
+      the tallest planetary mountain in our solar system. It’s two and a half times 
+      the size of Everest!`,
       image: MarsImage,
+      distance : `  Avg. distance
+      225 mil. km
+    
+      Est. travel time
+      9 months`
     },
     Titan: {
-      content: "Content for Titan...",
+      content: `  The only moon known to have a dense atmosphere other than Earth, Titan 
+      is a home away from home (just a few hundred degrees colder!). As a 
+      bonus, you get striking views of the Rings of Saturn.`,
       image: TitanImage,
+      distance : `  Avg. distance
+      1.6 bil. km
+    
+      Est. travel time
+      7 years`
     },
   };
 
